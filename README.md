@@ -18,13 +18,13 @@
 
 ### 1. Getting to Know TypeScript
 
-| 제목   | 내용                                                          | 설명                                                                           | 공부 날짜 | 학습 시간 |
-| ------ | ------------------------------------------------------------- | ------------------------------------------------------------------------------ | --------- | --------- |
-| Item 1 | [Understand the Relationship Between TypeScript and JavaScript](https://github.com/Pure-Sprinter/Effective-Typescript/blob/main/Chapter01/Item%201%20:%20Understand%20the%20Relationship%20Between%20TypeScript%20and%20JavaScript.md) | 자바스크립트에 비해 타입스크립트가 제공해주는 차별화 기능에 대한 개괄적인 내용 | 8/29      | 45 분     |
-| Item 2 | [Know Which TypeScript Options You're Using](https://github.com/Pure-Sprinter/Effective-Typescript/blob/main/Chapter01/Item%202%20:%20Know%20Which%20TypeScript%20Options%20You're%20Using.md)                    | noImplicitAny 와 strictNullChecks 설정이 타입스크립트에 끼치는 영향            | 8/29      | 30분      |
-| Item 3 | Understand That Code Generation Is Independent of Types       |                                                                                |           |           |
-| Item 4 | Get Comfortable with Structural Typing                        |                                                                                |           |           |
-| Item 5 | Limit Use of the any Type                                     |                                                                                |           |           |
+| 제목   | 내용                                                                                                                                                                                                                                   | 설명                                                                           | 공부 날짜   | 학습 시간 |
+| ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------- | --------- |
+| Item 1 | [Understand the Relationship Between TypeScript and JavaScript](https://github.com/Pure-Sprinter/Effective-Typescript/blob/main/Chapter01/Item%201%20:%20Understand%20the%20Relationship%20Between%20TypeScript%20and%20JavaScript.md) | 자바스크립트에 비해 타입스크립트가 제공해주는 차별화 기능에 대한 개괄적인 내용 | 8/29        | 45분      |
+| Item 2 | [Know Which TypeScript Options You're Using](https://github.com/Pure-Sprinter/Effective-Typescript/blob/main/Chapter01/Item%202%20:%20Know%20Which%20TypeScript%20Options%20You're%20Using.md)                                         | noImplicitAny 와 strictNullChecks 설정이 타입스크립트에 끼치는 영향            | 8/29        | 30분      |
+| Item 3 | Understand That Code Generation Is Independent of Types                                                                                                                                                                                |                                                                                | 8/29 (미완) | 20분      |
+| Item 4 | Get Comfortable with Structural Typing                                                                                                                                                                                                 |                                                                                |             |           |
+| Item 5 | Limit Use of the any Type                                                                                                                                                                                                              |                                                                                |             |           |
 
 ### 2. TypeScript's Type System
 
