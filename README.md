@@ -18,13 +18,13 @@
 
 ### 1. Getting to Know TypeScript
 
-| 제목   | 내용                                                          | 설명 | 공부 날짜 | 학습 시간 |
-| ------ | ------------------------------------------------------------- | ---- | --------- | --------- |
-| Item 1 | Understand the Relationship Between TypeScript and JavaScript |      |           |           |
-| Item 2 | Know Which TypeScript Options You're Using                    |      |           |           |
-| Item 3 | Understand That Code Generation Is Independent of Types       |      |           |           |
-| Item 4 | Get Comfortable with Structural Typing                        |      |           |           |
-| Item 5 | Limit Use of the any Type                                     |      |           |           |
+| 제목   | 내용                                                          | 설명                                                                           | 공부 날짜 | 학습 시간  |
+| ------ | ------------------------------------------------------------- | ------------------------------------------------------------------------------ | --------- | ---------- |
+| Item 1 | Understand the Relationship Between TypeScript and JavaScript | 자바스크립트에 비해 타입스크립트가 제공해주는 차별화 기능에 대한 개괄적인 내용 | 8/29      | 45 minutes |
+| Item 2 | Know Which TypeScript Options You're Using                    |                                                                                |           |            |
+| Item 3 | Understand That Code Generation Is Independent of Types       |                                                                                |           |            |
+| Item 4 | Get Comfortable with Structural Typing                        |                                                                                |           |            |
+| Item 5 | Limit Use of the any Type                                     |                                                                                |           |            |
 
 ### 2. TypeScript's Type System
 
