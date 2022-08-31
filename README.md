@@ -30,8 +30,8 @@
 
 | 제목    | 내용                                                                  | 설명                                                                                         | 공부 날짜 | 학습 시간  |
 | ------- | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | --------- | ---------- |
-| Item 6  | Use Your Editor to Interrogate and Explore the Type System            | 타입스크립트를 사용할 때 에디터가 어떻게 타입 추론의 이점을 주고 기능을 제공하는지 정리한 것 | 8/31      | 15분       |
-| Item 7  | Think of Types as Sets of Values                                      | 타입스크립트의 타입 시스템이 집합으로서 여겨지고 작동하는 것을 설명하는 내용                 | 8/31      | 35분       |
+| Item 6  | [Use Your Editor to Interrogate and Explore the Type System](https://github.com/Pure-Sprinter/Effective-Typescript/blob/main/Chapter02/Item%206%20:%20Use%20Your%20Editor%20to%20Interrogate%20and%20Explore%20the%20Type%20System.md)            | 타입스크립트를 사용할 때 에디터가 어떻게 타입 추론의 이점을 주고 기능을 제공하는지 정리한 것 | 8/31      | 15분       |
+| Item 7  | [Think of Types as Sets of Values](https://github.com/Pure-Sprinter/Effective-Typescript/blob/main/Chapter02/Item%207%20:%20Think%20of%20Types%20as%20Sets%20of%20Values.md)                                      | 타입스크립트의 타입 시스템이 집합으로서 여겨지고 작동하는 것을 설명하는 내용                 | 8/31      | 35분       |
 | Item 8  | Know How to Tell Whether a Symbol Is in the Type Space or Value Space |                                                                                              | 8/31      | 5분 (미완) |
 | Item 9  | Prefer Type Declarations to Type Assertions                           |                                                                                              |           |            |
 | Item 10 | Avoid Object Wrapper Types (String, number, Boolean, Symbol, BigInt)  |                                                                                              |           |            |
