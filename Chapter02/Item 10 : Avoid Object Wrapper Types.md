@@ -47,4 +47,4 @@ function isGreeting(phrase: String) {
 ### 기억해야할 것!!
 
 1. 어떻게 Object Wrapper type들이 Primitive 타입에게 method를 제공하는지 이해해야 한다. 또한 Wrapper 타입들을 인스턴스화 하고 직접적으로 사용하는 것을 피해야 한다.
-2. 타입스크립트 Object Wrapper Type 을 피하고 Primitive 타입을 사용해라.
+2. 타입스크립트 Object Wrapper Type 을 피하고 Primitive 타입을 사용해야 한다.
