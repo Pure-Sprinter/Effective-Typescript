@@ -1,4 +1,4 @@
-Item 17: Use readonly to Avoid Errors Associated with Mutation
+## Item 17: Use readonly to Avoid Errors Associated with Mutation
 
 우리가 배열의 합을 담당하는 함수를 만들고 순환한다고 생각을 해보며 아래와 같은 코드를 짰다고 해보자. 그러면 어떤 값이 나올 것인가? 최종 모습은 아래와 같다.
 
