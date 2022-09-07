@@ -46,17 +46,17 @@
 
 ### 3. Type Interface
 
-| 제목    | 내용                                                           | 설명 | 공부 날짜 | 학습 시간 |
-| ------- | -------------------------------------------------------------- | ---- | --------- | --------- |
-| Item 19 | Avoid Cluttering Your Code with Inferable Types                |      |           |           |
-| Item 20 | Use Different Variables for Different Types                    |      |           |           |
-| Item 21 | Understand Type widening                                       |      |           |           |
-| Item 22 | Understand Type Narrowing                                      |      |           |           |
-| Item 23 | Create Objects All at Once                                     |      |           |           |
-| Item 24 | Be Consistent in Your use of Aliases                           |      |           |           |
-| Item 25 | Use async Functions Instead of Callbacks for Asynchronous Code |      |           |           |
-| Item 26 | Understand How Context Is Used in Type Inference               |      |           |           |
-| Item 27 | Use Functional Constructs and Libraries to Help Types Flow     |      |           |           |
+| 제목    | 내용                                                           | 설명                                                                     | 공부 날짜 | 학습 시간 |
+| ------- | -------------------------------------------------------------- | ------------------------------------------------------------------------ | --------- | --------- |
+| Item 19 | Avoid Cluttering Your Code with Inferable Types                |                                                                          |           |           |
+| Item 20 | Use Different Variables for Different Types                    | 같은 변수명을 사용하지 말고 다른 변수명과 다른 타입을 사용해야 하는 이유 | 9/7       | 20분      |
+| Item 21 | Understand Type widening                                       |                                                                          |           |           |
+| Item 22 | Understand Type Narrowing                                      |                                                                          |           |           |
+| Item 23 | Create Objects All at Once                                     |                                                                          |           |           |
+| Item 24 | Be Consistent in Your use of Aliases                           |                                                                          |           |           |
+| Item 25 | Use async Functions Instead of Callbacks for Asynchronous Code |                                                                          |           |           |
+| Item 26 | Understand How Context Is Used in Type Inference               |                                                                          |           |           |
+| Item 27 | Use Functional Constructs and Libraries to Help Types Flow     |                                                                          |           |           |
 
 ### 4. Type Design
 
