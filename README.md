@@ -56,7 +56,7 @@
 | Item 24 | [Be Consistent in Your use of Aliases](https://github.com/Pure-Sprinter/Effective-Typescript/blob/main/Chapter03/Item%2024%20:%20Be%20Consistent%20in%20Your%20Use%20of%20Aliases.md)                                                         | 별칭을 일관성 있게 사용해야 하는 이유                                    | 9/12      | 15분       |
 | Item 25 | [Use async Functions Instead of Callbacks for Asynchronous Code](https://github.com/Pure-Sprinter/Effective-Typescript/blob/main/Chapter03/Item%2025%20:%20Use%20async%20Fucntions%20Instead%20of%20Callbacks%20for%20Asynchronous%20Code.md) | 타입스크립트 상에서 콜백보다 비동기 방식을 사용하는 것이 좋은 이유       | 9/12      | 15분       |
 | Item 26 | Understand How Context Is Used in Type Inference                                                                                                                                                                                              | Reference Form 에서 타입스크립트가 문맥으로 타입을 추론함                | 9/12      | 15분       |
-| Item 27 | Use Functional Constructs and Libraries to Help Types Flow                                                                                                                                                                                    |                                                                          |           |            |
+| Item 27 | Use Functional Constructs and Libraries to Help Types Flow                                                                                                                                                                                    | 함수형 프로그래밍 함수와 라이브러리들을 통한 타입 흐름 이어가기          | 9/12      | 10분       |
 
 ### 4. Type Design
 
