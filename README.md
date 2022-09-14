@@ -63,7 +63,7 @@
 | 제목    | 내용                                                         | 설명                                               | 공부 날짜 | 학습 시간 |
 | ------- | ------------------------------------------------------------ | -------------------------------------------------- | --------- | --------- |
 | Item 28 | Prefer Types That Always Represent Valid States              | 유효한 상태만 나타내는 타입들을 선호해야 하는 이유 | 9/14      | 20분      |
-| Item 29 | Be Liberal in What You Accept and Strict in What You Produce |                                                    |           |           |
+| Item 29 | Be Liberal in What You Accept and Strict in What You Produce | 입력에는 열려있고 출력에는 구체적이어야 한다.      | 9/14      | 15분      |
 | Item 30 | Don't Repeat Type Information in Documentation               |                                                    |           |           |
 | Item 31 | Push Null Values to the Perimeter of Your Types              |                                                    |           |           |
 | Item 32 | Prefer Unions of Interfaces to Interfaces of Unions          |                                                    |           |           |
