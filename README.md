@@ -55,23 +55,23 @@
 | Item 23 | [Create Objects All at Once](https://github.com/Pure-Sprinter/Effective-Typescript/blob/main/Chapter03/Item%2023%20:%20Create%20Objects%20All%20at%20Once.md)                                                                                 | 객체를 한번에 생성해야 하는 이유                                         | 9/10      | 15분       |
 | Item 24 | [Be Consistent in Your use of Aliases](https://github.com/Pure-Sprinter/Effective-Typescript/blob/main/Chapter03/Item%2024%20:%20Be%20Consistent%20in%20Your%20Use%20of%20Aliases.md)                                                         | 별칭을 일관성 있게 사용해야 하는 이유                                    | 9/12      | 15분       |
 | Item 25 | [Use async Functions Instead of Callbacks for Asynchronous Code](https://github.com/Pure-Sprinter/Effective-Typescript/blob/main/Chapter03/Item%2025%20:%20Use%20async%20Fucntions%20Instead%20of%20Callbacks%20for%20Asynchronous%20Code.md) | 타입스크립트 상에서 콜백보다 비동기 방식을 사용하는 것이 좋은 이유       | 9/12      | 15분       |
-| Item 26 | [Understand How Context Is Used in Type Inference](https://github.com/Pure-Sprinter/Effective-Typescript/blob/main/Chapter03/Item%2026%20:%20Understand%20How%20Context%20Is%20Used%20in%20Type%20Inference.md)                                                                                                                                                                                              | Reference Form 에서 타입스크립트가 문맥으로 타입을 추론함                | 9/12      | 15분       |
-| Item 27 | [Use Functional Constructs and Libraries to Help Types Flow](https://github.com/Pure-Sprinter/Effective-Typescript/blob/main/Chapter03/Item%2027%20:%20Use%20Functional%20Constructs%20and%20Libraries%20to%20Help%20Types%20Flow.md)                                                                                                                                                                                    | 함수형 프로그래밍 함수와 라이브러리들을 통한 타입 흐름 이어가기          | 9/12      | 10분       |
+| Item 26 | [Understand How Context Is Used in Type Inference](https://github.com/Pure-Sprinter/Effective-Typescript/blob/main/Chapter03/Item%2026%20:%20Understand%20How%20Context%20Is%20Used%20in%20Type%20Inference.md)                               | Reference Form 에서 타입스크립트가 문맥으로 타입을 추론함                | 9/12      | 15분       |
+| Item 27 | [Use Functional Constructs and Libraries to Help Types Flow](https://github.com/Pure-Sprinter/Effective-Typescript/blob/main/Chapter03/Item%2027%20:%20Use%20Functional%20Constructs%20and%20Libraries%20to%20Help%20Types%20Flow.md)         | 함수형 프로그래밍 함수와 라이브러리들을 통한 타입 흐름 이어가기          | 9/12      | 10분       |
 
 ### 4. Type Design
 
-| 제목    | 내용                                                         | 설명 | 공부 날짜 | 학습 시간 |
-| ------- | ------------------------------------------------------------ | ---- | --------- | --------- |
-| Item 28 | Prefer Types That Always Represent Valid States              |      |           |           |
-| Item 29 | Be Liberal in What You Accept and Strict in What You Produce |      |           |           |
-| Item 30 | Don't Repeat Type Information in Documentation               |      |           |           |
-| Item 31 | Push Null Values to the Perimeter of Your Types              |      |           |           |
-| Item 32 | Prefer Unions of Interfaces to Interfaces of Unions          |      |           |           |
-| Item 33 | Prefer More Precise Alternatives to String Types             |      |           |           |
-| Item 34 | Prefer Incomplete Types to Inaccurate Types                  |      |           |           |
-| Item 35 | Generate Types from APIs and Specs, Not Data                 |      |           |           |
-| Item 36 | Name Types Using the Language of Your Problem Domain         |      |           |           |
-| Item 37 | Consider "Brands" for Nominal Typing                         |      |           |           |
+| 제목    | 내용                                                         | 설명                                               | 공부 날짜 | 학습 시간 |
+| ------- | ------------------------------------------------------------ | -------------------------------------------------- | --------- | --------- |
+| Item 28 | Prefer Types That Always Represent Valid States              | 유효한 상태만 나타내는 타입들을 선호해야 하는 이유 | 9/14      | 20분      |
+| Item 29 | Be Liberal in What You Accept and Strict in What You Produce |                                                    |           |           |
+| Item 30 | Don't Repeat Type Information in Documentation               |                                                    |           |           |
+| Item 31 | Push Null Values to the Perimeter of Your Types              |                                                    |           |           |
+| Item 32 | Prefer Unions of Interfaces to Interfaces of Unions          |                                                    |           |           |
+| Item 33 | Prefer More Precise Alternatives to String Types             |                                                    |           |           |
+| Item 34 | Prefer Incomplete Types to Inaccurate Types                  |                                                    |           |           |
+| Item 35 | Generate Types from APIs and Specs, Not Data                 |                                                    |           |           |
+| Item 36 | Name Types Using the Language of Your Problem Domain         |                                                    |           |           |
+| Item 37 | Consider "Brands" for Nominal Typing                         |                                                    |           |           |
 
 ### 5. Working with any
 
