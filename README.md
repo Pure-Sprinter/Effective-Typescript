@@ -60,18 +60,18 @@
 
 ### 4. Type Design
 
-| 제목    | 내용                                                         | 설명                                               | 공부 날짜 | 학습 시간 |
-| ------- | ------------------------------------------------------------ | -------------------------------------------------- | --------- | --------- |
-| Item 28 | [Prefer Types That Always Represent Valid States](https://github.com/Pure-Sprinter/Effective-Typescript/blob/main/Chapter04/Item%2028%20:%20Prefer%20Types%20That%20Always%20Represent%20Valid%20States.md)              | 유효한 상태만 나타내는 타입들을 선호해야 하는 이유 | 9/14      | 20분      |
+| 제목    | 내용                                                                                                                                                                                                                                            | 설명                                               | 공부 날짜 | 학습 시간 |
+| ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | --------- | --------- |
+| Item 28 | [Prefer Types That Always Represent Valid States](https://github.com/Pure-Sprinter/Effective-Typescript/blob/main/Chapter04/Item%2028%20:%20Prefer%20Types%20That%20Always%20Represent%20Valid%20States.md)                                     | 유효한 상태만 나타내는 타입들을 선호해야 하는 이유 | 9/14      | 20분      |
 | Item 29 | [Be Liberal in What You Accept and Strict in What You Produce](https://github.com/Pure-Sprinter/Effective-Typescript/blob/main/Chapter04/Item%2029%20:%20Be%20Liberal%20in%20What%20You%20Accept%20and%20Strict%20in%20What%20You%20Produce.md) | 입력에는 열려있고 출력에는 구체적이어야 한다.      | 9/14      | 15분      |
-| Item 30 | Don't Repeat Type Information in Documentation               |                                                    |           |           |
-| Item 31 | Push Null Values to the Perimeter of Your Types              |                                                    |           |           |
-| Item 32 | Prefer Unions of Interfaces to Interfaces of Unions          |                                                    |           |           |
-| Item 33 | Prefer More Precise Alternatives to String Types             |                                                    |           |           |
-| Item 34 | Prefer Incomplete Types to Inaccurate Types                  |                                                    |           |           |
-| Item 35 | Generate Types from APIs and Specs, Not Data                 |                                                    |           |           |
-| Item 36 | Name Types Using the Language of Your Problem Domain         |                                                    |           |           |
-| Item 37 | Consider "Brands" for Nominal Typing                         |                                                    |           |           |
+| Item 30 | Don't Repeat Type Information in Documentation                                                                                                                                                                                                  | 주석에 타입 정보가 중복되지 않도록 하기            | 9/15      | 10분      |
+| Item 31 | Push Null Values to the Perimeter of Your Types                                                                                                                                                                                                 |                                                    |           |           |
+| Item 32 | Prefer Unions of Interfaces to Interfaces of Unions                                                                                                                                                                                             |                                                    |           |           |
+| Item 33 | Prefer More Precise Alternatives to String Types                                                                                                                                                                                                |                                                    |           |           |
+| Item 34 | Prefer Incomplete Types to Inaccurate Types                                                                                                                                                                                                     |                                                    |           |           |
+| Item 35 | Generate Types from APIs and Specs, Not Data                                                                                                                                                                                                    |                                                    |           |           |
+| Item 36 | Name Types Using the Language of Your Problem Domain                                                                                                                                                                                            |                                                    |           |           |
+| Item 37 | Consider "Brands" for Nominal Typing                                                                                                                                                                                                            |                                                    |           |           |
 
 ### 5. Working with any
 
